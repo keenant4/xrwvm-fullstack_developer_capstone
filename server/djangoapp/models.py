@@ -37,7 +37,7 @@ class CarModel(models.Model):
         default=SEDAN,
     )
     year = models.IntegerField(
-        default=2026, validators=[MinValueValidator(2020), MaxValueValidator(2025)]
+        default=2023, validators=[MinValueValidator(2020), MaxValueValidator(2025)]
     )
 
     def __str__(self):
