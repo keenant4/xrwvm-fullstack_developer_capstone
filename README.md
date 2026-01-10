@@ -1,4 +1,4 @@
-# 🚘 Full Stack Developer Capstone Dealership Project
+# xrwvm-fullstack_developer_capstone Dealership Project
 
 Dealership (Review Portal) is a user-friendly web application where users can register and login to explore a variety of car dealerships. They can read and leave reviews, helping others make informed decisions.
 
